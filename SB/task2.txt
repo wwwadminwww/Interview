@@ -1,0 +1,10 @@
+10 Python 102
+20 Java 200
+30 Javascript 667
+40 Lua 1200
+50 Io 2000
+60 Haskell 5000
+70 PHP -10
+80 C++ 3000
+90 Assember 3500
+100 Perl -50
