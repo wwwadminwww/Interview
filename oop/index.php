@@ -4,7 +4,7 @@ class My{
 		echo $param;
 	}
 	function __destruct(){
-		echo '<br />I was deleted from memory!!!';
+		echo '<br />I was deleted from memory and die!!!';
 	}
 }
 $test = new My(Hello);
